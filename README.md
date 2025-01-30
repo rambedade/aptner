@@ -59,10 +59,13 @@ Ensure you have **Node.js** installed.
 
 ## Screenshots
 ### Desktop View
-![Desktop View](./screenshots/desktop-view.png)
+![image](https://github.com/user-attachments/assets/739844e2-06a6-4bd6-9561-5c85e921fb15)
+
+
 
 ### Mobile View
-![Mobile View](./screenshots/mobile-view.png)
+![image](https://github.com/user-attachments/assets/f487c9f1-dcce-4a8c-b19c-2c00ee7c393d)
+
 
 ## Future Enhancements
 - Add **dark mode support**
